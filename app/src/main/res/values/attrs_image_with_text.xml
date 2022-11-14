@@ -1,0 +1,11 @@
+<resources>
+    <declare-styleable name="ImageWithText">
+        <attr name="exampleStringText" format="string" />
+        <attr name="exampleDimensionText" format="dimension" />
+        <attr name="exampleColorText" format="color" />
+        <attr name="exampleDrawableText" format="color|reference" />
+        <attr name="imageRef" format="reference" />
+        <attr name="imageInside" format="reference" />
+        <attr name="text" format="string" />
+    </declare-styleable>
+</resources>
