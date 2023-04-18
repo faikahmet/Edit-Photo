@@ -1,5 +1,5 @@
 # Edit-Photo
-It is a photo editing program that allows you to overlay another photo on top of a photo and add text if desired. It is written in Kotlin.
+It is a photo editing program that allows you to put another photo on top of a photo and add text if desired. It also allows downloading after edits are made. It is written in Kotlin language.
 
 - A customized view called ImageWithText is used. ImageWithText is extended from ConstraintLayout.
 
